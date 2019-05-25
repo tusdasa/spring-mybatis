@@ -104,3 +104,6 @@ jdbc.password=root
 
 ```
 
+# 屏幕截图
+
+![](https://github.com/tusdasa/spring-mybatis/blob/master/screenshot.png?raw=true)
